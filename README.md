@@ -4,16 +4,16 @@
 
   ## About the Program 🎓
 
-The **Diploma in Data Analytics** at Greystone College explores the most up-to-date methodologies, knowledge, and tools in the data analysis field. This program helps students develop in-demand skills for data processing, analysis, and presentation, all essential for effective business communication and decision-making. It covers:
+  The **Diploma in Data Analytics** at Greystone College explores the most up-to-date methodologies, knowledge, and tools in the data analysis field. This program helps students develop in-demand skills for data processing, analysis, and presentation, all essential for effective business communication and decision-making. It covers:
 
 - **Excel and Power BI** for advanced data analysis and visualization.
 - **Python programming essentials**, including data retrieval, analysis, and visualization with libraries like Matplotlib and Pandas.
 - **SQL and MSSQL databases** to manage, sort, and query data.
 - **Business applications** to link technical skills with business reporting and decision-making.
 
-  ## Technologies Used ⚙️
+## Technologies Used ⚙️
 
-This repository demonstrates proficiency in the following tools and technologies covered in the course:
+  This repository demonstrates proficiency in the following tools and technologies covered in the course:
 
 - **Programming Languages**: Python
 - **Data Analysis & Manipulation**: Pandas
