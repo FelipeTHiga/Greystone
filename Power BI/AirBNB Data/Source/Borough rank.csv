@@ -1,0 +1,41 @@
+borough,categoty,rank
+Bronx,Renting a home rank,4
+Brooklyn,Renting a home rank,2
+Manhattan,Renting a home rank,3
+Queens,Renting a home rank,1
+Staten Island,Renting a home rank,5
+Bronx,Owning a home rank,2
+Brooklyn,Owning a home rank,4
+Manhattan,Owning a home rank,5
+Queens,Owning a home rank,3
+Staten Island,Owning a home rank,1
+Bronx,Safe Neighborhoods rank,5
+Brooklyn,Safe Neighborhoods rank,4
+Manhattan,Safe Neighborhoods rank,2
+Queens,Safe Neighborhoods rank,3
+Staten Island,Safe Neighborhoods rank,1
+Bronx,Commuting rank,3
+Brooklyn,Commuting rank,2
+Manhattan,Commuting rank,1
+Queens,Commuting rank,4
+Staten Island,Commuting rank,5
+Bronx,Employment Opportunities rate,4
+Brooklyn,Employment Opportunities rate,1
+Manhattan,Employment Opportunities rate,2
+Queens,Employment Opportunities rate,3
+Staten Island,Employment Opportunities rate,5
+Bronx,Green Space rank,1
+Brooklyn,Green Space rank,4
+Manhattan,Green Space rank,5
+Queens,Green Space rank,2
+Staten Island,Green Space rank,3
+Bronx,Dining & Nightlife rank,4
+Brooklyn,Dining & Nightlife rank,2
+Manhattan,Dining & Nightlife rank,1
+Queens,Dining & Nightlife rank,3
+Staten Island,Dining & Nightlife rank,4
+Bronx,Cost of Living rank,2
+Brooklyn,Cost of Living rank,5
+Manhattan,Cost of Living rank,4
+Queens,Cost of Living rank,3
+Staten Island,Cost of Living rank,1

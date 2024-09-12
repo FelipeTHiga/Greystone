@@ -1,0 +1,11 @@
+"Saturday, 1 January 2022",,,,,,
+8:00,,,,,,
+Report data,,,,,,
+,,,,,,
+id,age,job,marital,education,housing,loan_alive
+132205,72,retired,married,secondary,no,no
+117181,42,blue-collar,married,primary,yes,no
+130998,41,unemployed,married,primary,no,no
+130997,41,services,married,unknown,yes,no
+135560,45,admin.,married,secondary,yes,yes
+Toatl row,avg: 43,,,,,
